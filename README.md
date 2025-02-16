@@ -6,3 +6,4 @@ Repo contains CodeFund.sol file containing solidity code for the token, CodeFund
 It also contains deploy.js and hardhat.config.js which were used to deploy it along with a .env file containing key and Infura endpoint.
 The repo also contains Three screen shots. First one shows the CDF token in my metamask account which after some transactions is 67M. Second one shows the screen shot of my friend's account to which I transferred few million of my token(EDF). Third screen shot shows my token and it's recent transactions on etherscan.io
 The project was Overall a good experience to learn in depth about blockchain technology.
+https://www.youtube.com/watch?v=gc7e90MHvl8 - This is the youtube video which I used as an inspiration for this project.
